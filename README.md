@@ -8,3 +8,5 @@ RateEat App Mobile ScreenShots
 <img src="https://user-images.githubusercontent.com/36234545/203087334-2efcf266-dcb4-4080-9a14-fe4259a1b001.png" width="300">
 <img src="https://user-images.githubusercontent.com/36234545/203087363-c815e655-aba6-43dd-b999-357886cac616.png" width="300">
 <img src="https://user-images.githubusercontent.com/36234545/203087388-461b453c-3b0d-416c-b432-2252b3549d51.png" width="300">
+
+[All Resources & APK File](https://docs.google.com/document/d/1Qy9nyi8CrqnMiyOKmhKOpcGL_--8N8JQA76AOBmnl3I/edit?usp=sharing)
